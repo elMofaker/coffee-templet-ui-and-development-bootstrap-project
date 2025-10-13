@@ -383,7 +383,8 @@ footer {
     padding: 5rem 0px;
 }
 
-footer .row span {
+footer .row span  {
+    text-decoration: none;
     font-size: 25px;
     color: var(--color-gold);
 }
@@ -393,6 +394,11 @@ footer ul li {
 }
 
 footer ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a {
     text-decoration: none;
     color: white;
 }
